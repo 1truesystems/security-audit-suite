@@ -1,0 +1,6 @@
+*.log
+*.tmp
+results/
+reports/
+.claude/
+CLAUDE.md
